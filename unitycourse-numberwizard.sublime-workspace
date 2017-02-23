@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"crea",
+				"create_question"
+			],
+			[
+				"la",
+				"latest_questions"
+			],
+			[
+				"assert",
+				"assertQuerysetEqual"
+			],
+			[
+				"que",
+				"question_text"
+			],
+			[
+				"for",
+				"force_login"
+			],
+			[
+				"vali",
+				"validate_login_username"
+			],
+			[
+				"submi",
+				"submitter_id"
+			],
+			[
+				"user",
+				"user_links"
+			],
+			[
+				"er_",
+				"er_pass"
+			],
+			[
+				"re_",
+				"re_email"
+			],
+			[
+				"jij",
+				"jinja_env"
+			],
+			[
+				"out",
+				"output_shopping"
+			],
+			[
+				"R",
+				"RequestHandler"
+			],
+			[
+				"u",
+				"user_year"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"navbar",
+				"navbar-brand"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"html",
+				"htmlSrc"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"traile",
+				"TRAILERS_API"
+			],
+			[
+				"p",
+				"poster_url"
+			],
+			[
+				"GET",
+				"CITYD_GET_ACTIVE_ROUTES"
+			],
+			[
+				"g",
+				"GetShuttleDriver"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"ssy sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"pc ip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jwaltzjr/Documents/git/unitycourse-numberwizard/Assets/Scripts/NumberWizard.cs",
+		"/C/Program Files (x86)/Steam/steamapps/common/Limbo/settings.txt",
+		"/C/Program Files (x86)/Unity 4/Editor/Data/Resources/ScriptTemplates/81-C# Script-NewBehaviourScript.cs.txt",
+		"/C/Users/jwaltzjr/Documents/81-C# Script-NewBehaviourScript.cs.txt",
+		"/C/Users/jwaltzjr/Dropbox/DjangoTutorial/mysite/polls/views.py",
+		"/C/Users/jwaltzjr/Dropbox/DjangoTutorial/mysite/polls/tests.py",
+		"/C/Users/jwaltzjr/Dropbox/DjangoTutorial/mysite/polls/static/polls/style.css",
+		"/C/Users/jwaltzjr/Dropbox/DjangoTutorial/mysite/polls/templates/polls/index.html",
+		"/C/Users/jwaltzjr/Dropbox/DjangoTutorial/mysite/polls/admin.py",
+		"/C/Users/jwaltzjr/Dropbox/DjangoTutorial/mysite/polls/models.py",
+		"/C/Users/jwaltzjr/Dropbox/DjangoTutorial/mysite/mysite/settings.py",
+		"/C/Users/jwaltzjr/Dropbox/DjangoTutorial/mysite/templates/admin/base_site.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/SQL/Docking Orders.sql",
+		"/C/Users/jwaltzjr/Dropbox/DjangoTutorial/mysite/polls/urls.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_APPLY_DOCKED_STATUS.SQL",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/version-control/asteroids/game.js",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_APPLY_EXPECTED_STATUS.SQL",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/SQL/OLD TRIPFIX KPI SPs.sql",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/Database/SQL/dockingorders.sql",
+		"/C/Users/jwaltzjr/iptable.json",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_SET_ITRIPTLO_TRUE.sql",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_SET_ITRIPTLO_FALSE.sql",
+		"/C/Users/jwaltzjr/Desktop/Keilman.ps1",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/Database/SQL/INTERLINE DRIVER SQL.sql",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/Database/SQL/Accessorials/nightfunc.sql",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/IMPORTANT DAWGS",
+		"/C/Users/jwaltzjr/Dropbox/IT/TMW/Database/SQL/Resave Orders On Trip.sql",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 3 - Blog/datastore.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 3 - Blog/blog.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 3 - Blog/handlers.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 3 - Blog/templates/base.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 3 - Blog/templates/post.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 3 - Blog/templates/signup.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/app.yml",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/blog.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/templates/signup.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/templates/login.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/templates/signup_welcome.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/templates/blog.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/templates/base.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/templates/newpost.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/templates/post.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/signup.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/signup.pyc",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/google_template.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/ascii.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/rot13.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/rot13.pyc",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/app.yml",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/databases/query.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/templates/signup_welcome.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/templates/base.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/templates/fizzbuzz.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/templates.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/helloworld.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/forms.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/html/template.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/forms/hello-udacity/temp-form.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/styles/_main.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/styles/_grid.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/styles/_font.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/package.json",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/styles/_import.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/third-party/css3-mixins/_css3-mixins.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/html/index.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/README.txt",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/dist/entertainment_center.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/movie_trailers/entertainment_center.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/movie_trailers/fresh_tomatoes.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/Gruntfile.js",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/var/_colors.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Scripts/abacusedi.py",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/dist/index.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/style.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/dist/css/style.min.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/Gruntconfig.yml",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/dist/css/style.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/test/src/scss/third-party/bootstrap/bootstrap.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/test/src/html/index.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/test/Gruntconfig.yml",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/test/Gruntfile.js",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/test/src/scss/third-party/_import.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/test/dist/css/style.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/grunt-template/Final Project/package.json",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/grunt-template/Final Project/Gruntconfig.yml",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/grunt-template/Final Project/src/js/main.js",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/grunt-template/Final Project/src/html/index.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/grunt-template/Final Project/dist/css/style.min.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/grunt-template/Final Project/node_modules/bootstrap/package.json",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/styles/_nav.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/js/main.js",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/var/_import.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/third-party/_import.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/third-party/import.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/third-party/css3-mixins/css3-mixins.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/third-party/css3-mixins/bower.json",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/modules/_import.scss",
+		"/C/Users/jwaltzjr/AppData/Local/Temp/Temp1_matthieua-sass-css3-mixins-6bb5603.zip/matthieua-sass-css3-mixins-6bb5603/css3-mixins.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/vendor/font-awesome/_variables.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/vendor/font-awesome/_path.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/vendor/font-awesome/font-awesome.scss",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/dist/js/app.js",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/dist/js/app.min.js",
+		"/C/Users/jwaltzjr/AppData/Roaming/Sublime Text 2/Packages/HTML/html_completions.py",
+		"/C/Users/jwaltzjr/AppData/Roaming/Sublime Text 2/Packages/Default/Context.sublime-menu",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/node_modules/bootstrap/dist/js/bootstrap.min.js",
+		"/C/Users/jwaltzjr/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/jwaltzjr/AppData/Roaming/Sublime Text 2/Packages/User/Sass.sublime-settings",
+		"/C/Users/jwaltzjr/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/Final Project/src/scss/font-awesome-4.6.3/css/font-awesome.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/grunt-workflow-guide-master/Gruntfile.js",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/blog/Project-Part-2-Start/css/main.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/blog/RI-Project-Part-1-Start/Project-Part-1-Start/index.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/grunt-workflow-guide-master/grunt_tasks/javascript.js",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/grunt-workflow-guide-master/grunt_tasks/sass.js",
+		"/C/Users/jwaltzjr/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/jwaltzjr/AppData/Roaming/Sublime Text 2/Packages/User/CSS.sublime-settings",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/blog/Project-Part-2-Start/index.html",
+		"/C/Users/jwaltzjr/AppData/Local/Temp/Temp1_RI-Project-Part-2-Solution.zip/Project-Part-2-Solution/css/main.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/blog/RI-Project-Part-1-Start/Project-Part-1-Start/css/main.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/blog/RI-Project-Part-1-Start/Project-Part-1-Start/Gruntfile.js",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/RWDF L2 Start/Start/main.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/RWDF L2 Start/Start/index.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/pattern-mostly-fluid-quiz-blankcss/pattern-mostly-fluid-quiz-blankcss.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/framework/css/style.css",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/framework/index.html",
+		"/C/Users/jwaltzjr/Dropbox/IT/Udacity/Project 2/portfolio/framework/bootstrap/css/bootstrap.css",
+		"/C/Users/jwaltzjr/Downloads/bootstrap-prestructure (1)/bootstrap-prestructure/bootstrap-prestructure.htm"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"print (",
+			" (",
+			"HEAD",
+			">>",
+			"<<",
+			"CALL",
+			"sales_agent",
+			"rep,",
+			"and current_status not in ('BILLD','EDI210SENT','PRINTED','REPRINT')",
+			" t.START_ZONE,",
+			"        cast(\n                (\n                    SELECT EM.ADDRESS\n                    FROM EMAIL_ADDRESS EM\n                    INNER JOIN IUSEREMAIL IUE ON (IUE.EMAIL_ID = EM.ID)\n                    WHERE IUE.USER_ID = (CASE\n                        WHEN (T.SALES_AGENT is null or T.SALES_AGENT = '') THEN T.CREATED_BY\n                        WHEN (T.SALES_AGENT is not null and T.SALES_AGENT != '') THEN T.SALES_AGENT\n                        END)\n                    AND LEFT(EM.NAME,3) != 'SU-'\n                    AND EM.MEDIUM = 'EMAIL' fetch first row only\n                ) as varchar(30)\n            ) \"Email Address\",",
+			"        cast(\n                (\n                    SELECT EM.ADDRESS\n                    FROM EMAIL_ADDRESS EM\n                    INNER JOIN IUSEREMAIL IUE ON (IUE.EMAIL_ID = EM.ID)\n                    WHERE IUE.USER_ID = (CASE\n                        WHEN (T.SALES_AGENT is null or T.SALES_AGENT = '') THEN T.CREATED_BY\n                        WHEN (T.SALES_AGENT is not null and T.SALES_AGENT != '') THEN T.SALES_AGENT\n                        END)\n                    AND LEFT(EM.NAME,3) = 'SU-'\n                    AND EM.MEDIUM = 'EMAIL' fetch first row only\n                ) as varchar(30)\n            ) \"SU Email Address\",a.ROW_TIMESTAMP \"Applied\"",
+			"INTO",
+			"vDIST_CODE",
+			"vDIST",
+			"secure_cookie",
+			"self.render(",
+			".render(",
+			"check_login",
+			"redirect.('/')",
+			"redirect.(",
+			"redirect.",
+			"render_newpost",
+			"secure_cookie",
+			"check_login",
+			"handlers.",
+			"t = ",
+			"BlogPost",
+			"User",
+			"webapp2",
+			"os",
+			"jijna2",
+			"LoginPage",
+			"render_login",
+			"check_login",
+			"WelcomePage",
+			"check_login",
+			".get('user_id'",
+			"add_user",
+			"validate_cookie",
+			"secure_cookie",
+			"validate_login_password",
+			"validate_login_username",
+			"secure_password",
+			"make_salt",
+			"validate(",
+			"signup_welcome",
+			"signup_welcome.html",
+			"signup.html",
+			"startup.html",
+			"login.html",
+			"blog.html",
+			"newpost.html",
+			"post.html",
+			"base.html",
+			"Set-Cookie",
+			"blog.html",
+			"base.html",
+			"username",
+			"validate_login_username",
+			"validate_login_",
+			"validate_login-username",
+			"validate_login",
+			"validate_lodin",
+			"username",
+			"user",
+			"username",
+			"validate_login",
+			"add_user",
+			"secure_password",
+			"secure",
+			"secur",
+			"secure_password(",
+			"secure_password()",
+			"secure_password(_",
+			"secure_password(",
+			"secure_password",
+			")\n",
+			"return error_username ",
+			"validate_login",
+			"validate",
+			"validate_login",
+			"redirect",
+			"re_user",
+			"user.get()",
+			"user.password",
+			"secure_password",
+			"validate_password",
+			"user_id",
+			"hmac",
+			"add_user",
+			"secure_cookie",
+			"make_secure_password",
+			"make_",
+			"secure_password",
+			"make_secure_pass",
+			"make_secure",
+			".model",
+			".mdel",
+			"put",
+			"Blogpost",
+			"validate",
+			"art",
+			"Art",
+			"]",
+			"in_user",
+			" = ",
+			"else:",
+			"name=\"",
+			"name",
+			"\">",
+			"</p>",
+			"color",
+			"<p",
+			"<br>",
+			"{{",
+			"else:",
+			"email",
+			" email ",
+			"if in",
+			"er_user",
+			"error",
+			"<br>",
+			"<label>",
+			"<br>",
+			"</label>",
+			"<br>",
+			"h2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&amp",
+			"&amp;",
+			"year",
+			"\"",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 138.0,
+	"status_bar_visible": true
+}
